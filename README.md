@@ -23,6 +23,9 @@ In this project, we will focus on building a rope climbing robot. We are designi
     * Connecting wires and jumpers 
     * Johnson Motor
 ![ELECTRONIC COMPONENTS](https://user-images.githubusercontent.com/97011184/198001571-8d865a5c-a2c1-4a37-ae36-7f931041cd23.png)
+# CIRCUIT DIAGRAM
+![WhatsApp Image 2022-10-28 at 23 35 37](https://user-images.githubusercontent.com/97011184/199406823-153a56c7-001c-4b39-8fd4-278af672e32a.jpeg)
+![WhatsApp Image 2022-10-28 at 23 35 48](https://user-images.githubusercontent.com/97011184/199406839-2764230c-7771-45e5-b806-60acf0897a03.jpeg)
 * **BOT SPECIFICATIONS**
     * Weight of the Bot = 1.605 Kg 
     * Dimensions of the Bot = 22x23x13 cm (excluding the extended gripping mechanism) 
